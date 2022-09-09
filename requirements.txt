@@ -169,7 +169,7 @@ llvmlite==0.38.0
 locket==0.2.1
 lxml==4.6.3
 Markdown==3.3.7
-MarkupSafe==2.1.1
+
 matplotlib==3.4.3
 matplotlib-inline==0.1.2
 mccabe==0.6.1
