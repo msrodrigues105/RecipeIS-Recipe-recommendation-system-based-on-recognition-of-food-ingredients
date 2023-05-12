@@ -1,2 +1,2 @@
-# RecipeIS
-Food recognition and recipes recommendation 
+# RecipeIS – Recipe recommendation system based on recognition of food ingredients
+
