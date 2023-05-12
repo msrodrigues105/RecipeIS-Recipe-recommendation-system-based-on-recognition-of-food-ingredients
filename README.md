@@ -15,6 +15,9 @@ reached **96% of accuracy** in classifying the dataset images. The recommendatio
 label of the recognized ingredient to obtain the recipes, which are searched through the Edamam
 API.
 
+![image](https://github.com/msrodrigues105/RecipeIS/assets/47826691/523644e3-cff2-4be2-8833-7a4c3b5bae1d)
+
+
 
 ### 1. Image Recognition
 
@@ -32,6 +35,9 @@ using the Flask framework to implement our CNN model, with two routes establishe
 - Route 2 - A prediction page that recognizes the food ingredient image and sends it
 to the created model to determine the food ingredient class.
 
+![image](https://github.com/msrodrigues105/RecipeIS/assets/47826691/a4fc26ff-7eac-4c86-8684-ef3ec9b7d8aa)
+
+
 ### 2. Recipes recommendation system
 To make the recommendation of recipes from the ingredient chosen by the user,
 the JavaScript language was used to search the database, API Edamam, by the
@@ -40,3 +46,6 @@ We have also made some options for the user, in which the user can choose diets
 or preferences from the recommended recipes. From the options selected by the user,
 the program will perform a search in the database, with the result of the recognized
 ingredient together with the diet options and preferences chosen by the user.
+
+![image](https://github.com/msrodrigues105/RecipeIS/assets/47826691/3dbbb3b9-4b6c-4cb5-81c2-ef6e3bb40013)
+
